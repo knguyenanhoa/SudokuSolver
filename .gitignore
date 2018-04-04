@@ -1,0 +1,15 @@
+# Python specific
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Python setuptools
+build/
+dist/
+
+# Logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+#ctags
+tags
